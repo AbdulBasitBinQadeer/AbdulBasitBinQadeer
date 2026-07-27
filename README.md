@@ -8,7 +8,7 @@
 
 <h3 align="left">🧊 3D Contribution Graph:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/AbdulBasitBinQadeer/AbdulBasitBinQadeer/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3d contribution graph" />
+<img src="https://raw.githubusercontent.com/AbdulBasitBinQadeer/AbdulBasitBinQadeer/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3d contribution graph" />
 </p>
 
 
